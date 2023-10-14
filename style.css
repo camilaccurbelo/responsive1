@@ -1,0 +1,14 @@
+h2 {
+    text-align: center;
+}
+
+#carouselExampleAutoplaying {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+}
+
+.pf {
+    font-weight: 600;
+}
